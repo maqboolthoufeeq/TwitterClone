@@ -1,6 +1,4 @@
 
-Demo Image:
-![](TwitterDemo.png)
 
 ## Setup
 
